@@ -1,0 +1,15 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\MiniChitHatChat\MiniChitHatChat\bin\Debug\MiniChitHatChat.exe.config
+C:\Users\Lenovo\documents\visual studio 2015\Projects\MiniChitHatChat\MiniChitHatChat\bin\Debug\MiniChitHatChat.exe
+C:\Users\Lenovo\documents\visual studio 2015\Projects\MiniChitHatChat\MiniChitHatChat\bin\Debug\MiniChitHatChat.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\MiniChitHatChat\MiniChitHatChat\obj\Debug\MiniChitHatChat.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2015\Projects\MiniChitHatChat\MiniChitHatChat\obj\Debug\MiniChitHatChat.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\MiniChitHatChat\MiniChitHatChat\obj\Debug\MiniChitHatChat.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\MiniChitHatChat\MiniChitHatChat\obj\Debug\MiniChitHatChat.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2015\Projects\MiniChitHatChat\MiniChitHatChat\obj\Debug\MiniChitHatChat.exe
+C:\Users\Lenovo\documents\visual studio 2015\Projects\MiniChitHatChat\MiniChitHatChat\obj\Debug\MiniChitHatChat.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\MiniChitHatChat\MiniChitHatChat\obj\Debug\MiniChitHatChat.Form2.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\MiniChitHatChat\MiniChitHatChat\obj\Debug\MiniChitHatChat.Form3.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\MiniChitHatChat\MiniChitHatChat\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\MiniChitHatChat\MiniChitHatChat\bin\Debug\Google.Protobuf.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\MiniChitHatChat\MiniChitHatChat\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\MiniChitHatChat\MiniChitHatChat\bin\Debug\MySql.Data.xml
